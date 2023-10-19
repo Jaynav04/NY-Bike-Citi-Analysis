@@ -1,4 +1,4 @@
-# NY-Bike-Citi-Analysis
+# NY-Citi-Bike-Analysis
 ![image](https://github.com/Jaynav04/NY-Bike-Citi-Analysis/assets/130405173/80a6ed7a-21ba-4d7f-ae27-10efb572fa99)
 
 The COVID-19 pandemic triggered a severe and rapid decline in economic activity, resulting in substantial job losses in the early months of 2020. Government-imposed restrictions and public apprehension about the virus led to individuals staying at home and businesses closing. According to the National Bureau of Economic Research, the authoritative source for determining business cycle phases, the economic downturn associated with the pandemic lasted just two months: March and April 2020.
